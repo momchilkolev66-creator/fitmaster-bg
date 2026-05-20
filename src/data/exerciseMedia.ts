@@ -7,6 +7,10 @@ export const exerciseMedia = {
     image: require('../../assets/images/exercises/bench-press.png'),
   },
 
+  'Лежанка с дъмбели': {
+    image: require('../../assets/images/exercises/dumbbell-bench-press.png'),
+  },
+
   default: {
     image: null,
   },
